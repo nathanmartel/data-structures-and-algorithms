@@ -1,0 +1,3 @@
+### Class 01 Code Challenge - arrayMap Whiteboard
+
+This one seems pretty straightforward - spin through a for loop based on the length of the array (had to double-check, but length is indeed a property, not a method). Within the loop, send each indexed item in the array off to the function passed in as an argument. Can't push since that's an Array method, but can we simply += add it to the new array? Or assign it at the current index?

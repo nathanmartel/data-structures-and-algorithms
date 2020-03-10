@@ -1,2 +1,2 @@
 # Table of Contents
-### arrayMap
+1. [arrayMap](https://github.com/nathanmartel/data-structures-and-algorithms/tree/array-map)

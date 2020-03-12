@@ -1,4 +1,4 @@
-const binarySearch = (key, arr) => {
+const binarySearch = (arr, key) => {
   let lowIndex = 0;
   let highIndex = arr.length;
   let midpoint = Math.floor(highIndex / 2);
